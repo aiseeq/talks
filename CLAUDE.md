@@ -1,4 +1,4 @@
-<!-- lex: собран из /home/aisee/.claude/codex/manifest/git-talks-CLAUDE.md.yaml. Правь фрагменты в /home/aisee/.claude/codex/frag и запусти `lex build --codex /home/aisee/.claude/codex`; правку прямо в этом файле перенеси во фрагменты: `lex absorb --codex /home/aisee/.claude/codex <этот файл>` -->
+<!-- lex: собран из ~/.claude/codex/manifest/git-talks-CLAUDE.md.yaml. Правь фрагменты в ~/.claude/codex/frag и запусти `lex build --codex ~/.claude/codex`; правку прямо в этом файле перенеси во фрагменты: `lex absorb --codex ~/.claude/codex <этот файл>` -->
 # talks
 
 Доклады пользователя: папка на доклад (`index.html` — слайды, `slides.pdf`), список — `README.md`.
